@@ -1,0 +1,19 @@
+[project]
+name = "proyectorecsys"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.11.14"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "numpy==1.26",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "scikit-surprise>=1.1.4",
+    "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
+    "deepctr-torch>=0.2.9",
+    "tensorflow==2.15.0",
+    "torch>=2.9.0",
+    "recommenders>=1.2.1",
+]
