@@ -16,8 +16,8 @@ La metodología consiste en lo siguente:
 
 # Estructura del repositorio
 
+```text
 ProyectoRecSys/
-│
 │
 ├── plots/                        # Gráficos de evaluación y comparaciones
 │
@@ -36,6 +36,7 @@ ProyectoRecSys/
 │
 ├── recipes.csv                   # Dataset de recetas
 └── reviews.csv                   # Dataset de reviews históricas
+```
 
 # Instalación y Config
 
